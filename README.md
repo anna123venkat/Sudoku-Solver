@@ -16,7 +16,7 @@ This is a mini project that implements a **Sudoku Solver** using the C programmi
 
 1. **Clone the Repository**:  
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/anna123venkat/Sudoku-Solver>
    cd sudoku-solver
    ```
 2. **Compile the Program**:  
