@@ -29,9 +29,9 @@ Sudoku-Solver
 │   ├── test_puzzles.txt # Example puzzles for testing
 │   ├── test_solver.c   # Test program for the solver
 │   └── expected_output.txt # Expected outputs for the test puzzles
-├── assets              # Images or diagrams for the project (e.g., output screenshots)
-    ├── Result 1.png # Example of a solved Sudoku puzzle
-    └── Result 2.png   # Flowchart/algorithm diagram
+├── assets              # Images 
+    ├── Result 1.png 
+    └── Result 2.png   
     └── Result 3.png
 
 ```
