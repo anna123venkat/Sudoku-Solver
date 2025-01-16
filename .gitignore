@@ -1,0 +1,41 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+/build/
+*.exe
+*.out
+*.app
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.swp
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test outputs
+/tests/*.log
+/tests/expected_output.txt
+/tests/*.out
+
+# Documentation build artifacts
+/docs/*.aux
+/docs/*.log
+/docs/*.pdf
+
+# Ignore the Makefile backup (if any)
+Makefile~
+
+# User-specific files
+*.user
