@@ -2,6 +2,17 @@
 
 This repository contains the implementation of a Sudoku Solver using the C programming language. It includes the core logic for solving Sudoku puzzles, generating new puzzles, and a command-line interface for users to input and solve puzzles interactively.
 
+## Table of Contents
+- [Project Overview](#project-overview)
+  - [Key Features](#key-features)
+- [Folder Structure](#folder-structure)
+- [How to Run](#how-to-run)
+- [Algorithm](#algorithm)
+  - [Time Complexity](#time-complexity)
+- [Example Input and Output](#example-input-and-output)
+- [References](#references)
+- [Contributors](#contributors)
+
 ## Project Overview
 
 The Sudoku Solver project was developed as part of the Data Structures Laboratory (19IT351) course during the third semester of the B.E. program in Artificial Intelligence and Data Science at Mepco Schlenk Engineering College. The primary objective of this project was to explore and implement the backtracking algorithm for solving computational problems like Sudoku.
@@ -33,15 +44,14 @@ Sudoku-Solver
     ├── Result 1.png 
     └── Result 2.png   
     └── Result 3.png
-
 ```
 
 ## How to Run
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/sudoku-solver.git
-   cd sudoku-solver
+   git clone https://github.com/anna123venkat/Sudoku-Solver.git
+   cd Sudoku-Solver
    ```
 
 2. **Run the Solver**:
@@ -94,17 +104,15 @@ The Sudoku Solver uses a **Backtracking Algorithm**:
 287419635
 345286179
 ```
+
 ## References
 - [Sudoku Wikipedia](https://en.wikipedia.org/wiki/Sudoku) - Overview of Sudoku rules and solving strategies.
 - [Backtracking Algorithm](https://www.geeksforgeeks.org/backtracking-algorithms/) - Explanation of backtracking and its applications.
 - [C Programming Language](https://en.cppreference.com/w/c) - Reference for C language functions and syntax.
 - [Sudoku Solving Techniques](https://www.kristanix.com/sudokuepic/sudoku-solving-techniques.php) - Different techniques used in solving Sudoku puzzles.
 
-
-
 ## Contributors
 - Abhinand K Anna
 - Muthu Nitheesh R
 - **[Prasanna Venkatesh S](https://github.com/anna123venkat)**
-
 
