@@ -94,6 +94,13 @@ The Sudoku Solver uses a **Backtracking Algorithm**:
 287419635
 345286179
 ```
+## References
+- [Sudoku Wikipedia](https://en.wikipedia.org/wiki/Sudoku) - Overview of Sudoku rules and solving strategies.
+- [Backtracking Algorithm](https://www.geeksforgeeks.org/backtracking-algorithms/) - Explanation of backtracking and its applications.
+- [C Programming Language](https://en.cppreference.com/w/c) - Reference for C language functions and syntax.
+- [Sudoku Solving Techniques](https://www.kristanix.com/sudokuepic/sudoku-solving-techniques.php) - Different techniques used in solving Sudoku puzzles.
+
+
 
 ## Contributors
 - Abhinand K Anna
