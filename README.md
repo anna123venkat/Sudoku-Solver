@@ -98,9 +98,6 @@ The Sudoku Solver uses a **Backtracking Algorithm**:
 ## Contributors
 - Abhinand K Anna
 - Muthu Nitheesh R
-- S Prasanna Venkatesh
+- **[Prasanna Venkatesh S](https://github.com/anna123venkat)**
 
-## Acknowledgements
-- Project guide: Dr. P. Thendral
-- Head of Department: Dr. J. Angela Jennifa Sujana
 
